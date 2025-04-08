@@ -25,7 +25,7 @@ const Nav = ({ authed }) => (
         />
       </svg>
       <span className="text-xl font-bold tracking-tight font-display">
-        Destination
+        Destinotion
       </span>
     </div>
     <div>

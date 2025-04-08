@@ -1,8 +1,8 @@
 {
-  "name": "time-to-have-more-fun",
+  "name": "Destinotion",
   "version": "0.1.0",
   "description": "Time to have more fun",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Parth Shah <parth.shah041999@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
