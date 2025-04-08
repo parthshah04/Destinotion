@@ -3,6 +3,7 @@
 [**Destinotion**](https://destinotion.parthshah.co.in) is a sleek web application that helps you discover and organize your next travel adventures. Built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/), the app offers a modern, responsive design with file-based storage to efficiently manage your travel ideas.
 
 ![Destinotion App](public/plane.gif)
+![Destinotion Landing Page](public/main.png)
 
 ## Table of Contents
 
@@ -121,12 +122,14 @@ module.exports = {
    - Fill in the place details including name, location, description, and tags
    - Upload an image (optional)
    - Click "Save" to add the destination to your list
+  ![Add new Place](public/addPlace.png)
 
 2. **Edit a Destination:**
    - Click on the destination card to view details
    - Click the "Edit" button
    - Update the information as needed
    - Click "Save" to confirm changes
+  ![Edit Place](public/editPlace.png)
 
 3. **Delete a Destination:**
    - Navigate to the destination's detail page
