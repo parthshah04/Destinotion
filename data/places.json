@@ -1,0 +1,746 @@
+[
+  {
+    "name": "Patagonia, Chile",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1558517286-8a9cb0b8c793?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "cold",
+      "flight": "long"
+    }
+  },
+  {
+    "name": "Baltimore, Maryland",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1550697278-27dc9ab1f9c6?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Barcelona & Montserrat, Spain",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1517148870037-0e11fe7d932a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "11/22/2018",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Block Island, Rhode Island",
+    "description": "",
+    "img": "https://images.unsplash.com/reserve/WqkKzST7R1qSDU4Nf6X7_14701260952_50ceca221e_o.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "beach",
+      "temperature": "temperate",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Bratislava, Slovakia",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1527002836355-e11c5be50cf8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Brugge, Belgium",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1569773125130-4597e665df11?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Budapest, Hungary",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1549877452-9c387954fbc2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Cancun, Mexico",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1568402102990-bc541580b59f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "hot",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Cape Cod, Massachusetts",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1574790532178-2984785d7ea0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "beach",
+      "temperature": "temperate",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Cocoa Beach, Florida",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1517026050-afeac40f0a3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "beach",
+      "temperature": "hot",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Colorado Rocky Mountains",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1515467135277-8e8dcd900d44?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "ski",
+      "temperature": "cold",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Disney World, Florida",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1532358668075-5801c5a45839?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "hot",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Grand Canyon & Sedona, Arizona",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1547620180-15861f86e628?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjY5MDQ1fQ&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Montreal, Canada",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1462530348824-65844534c0ed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "New York City",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1440613905118-99b921706b5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Newport, Rhode Island",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1561086103-f790c366966b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "beach",
+      "temperature": "temperate",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Paris, France",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1503302130949-aa7c93f0bcb1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Park City, Utah",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1553815035-92b6eef66226?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "ski",
+      "temperature": "cold",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Philadelphia, Pennsylvania",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1508770218424-753a10cd8117?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Portland, Maine",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1564919476674-187c966fe1fe?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Portland, Oregon",
+    "description": "That's a nice boulder",
+    "img": "https://images.unsplash.com/photo-1530889385243-66297ebd6e30?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Prague, Czech Republic",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1559564612-7a85b6c940f3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "San Francisco, California",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1521464302861-ce943915d1c3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Toronto, Ontario",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "cold",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Vienna, Austria",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1577972752067-de558a6eae5a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Washington, DC",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1569328922596-4c04460c91a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "Yes",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Acadia National Park",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1576595092285-a89d7b0115bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "temperate",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Aruba",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1558117338-7ef3d637ce2f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "beach",
+      "temperature": "hot",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Banff & Lake Louise, Canada",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1568941159284-3b299541ee63?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Bergen, Norway",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1544085311-11a028465b03?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "cold",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Berlin, Germany",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1560969184-10fe8719e047?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Chicago, Illinois",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1524168272322-bf73616d9cb5?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Copenhagen, Denmark",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1561113500-8f4ad4f80a93?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Cruise to Bahamas",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1490048807374-acde8ef855cc?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "beach",
+      "temperature": "hot",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Cruise to Quebec City",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1524022523577-9005d7ae69d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Disney World (Star Wars)",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1578374173703-3b306567209a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "hot",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Dubrovnik & Kotor (The Balkans)",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1555990793-da11153b2473?ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Hawaii",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1558900811-1ad125768a7f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "hot",
+      "flight": "long"
+    }
+  },
+  {
+    "name": "Iceland",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1521188453774-625d3fa52b67?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "cold",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Kyoto & Osaka, Japan",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1493780474015-ba834fd0ce2f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1326&q=80&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "long"
+    }
+  },
+  {
+    "name": "Las Vegas, Nevada",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1521197462227-d93940d220b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "hot",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Machu Picchu, Peru",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1501371632240-5d60b49290e7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Monterey, California",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1537858320050-8d60433d1600?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "beach",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "New Orleans, Louisiana",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1571893544028-06b07af6dade?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "hot",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Patagonia, Chile",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1558517286-8a9cb0b8c793?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "cold",
+      "flight": "long"
+    }
+  },
+  {
+    "name": "Porto, Portugal",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1542128219-f00cc5891ca5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Redwood or Sequoia National Park",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1544062336-1a0da2fff895?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Rio de Janeiro, Brazil",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1543958871-ccfa180a0c39?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "beach",
+      "temperature": "hot",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Santorini, Greece",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1563789031959-4c02bcb41319?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "beach",
+      "temperature": "hot",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Scotland & London",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1532662510497-2b21d5f79dfd?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Seattle, Washington",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1529973779627-32de59520cf9?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Seoul, Korea",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1517154421773-0529f29ea451?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "long"
+    }
+  },
+  {
+    "name": "Seville, Spain",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1542115049-3af45a7e0ff4?ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "hot",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Skiing at Whistler",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1545322683-d5ca78b10bb1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "ski",
+      "temperature": "cold",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Skiing in Switzerland",
+    "description": "Snowboarding in the alps!",
+    "img": "https://images.unsplash.com/photo-1530841344029-ec3ae0fa4cc4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "ski",
+      "temperature": "cold",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Southern California Road Trip",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1458682760028-07c9d41d0cd1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "hot",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Sint Maarten",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1514480605825-a4804160b313?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "beach",
+      "temperature": "hot",
+      "flight": "short"
+    }
+  },
+  {
+    "name": "Stockholm, Sweden",
+    "description": "Kelsey is Swedish",
+    "img": "https://images.unsplash.com/photo-1551730708-87acf0563a4d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "cold",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Taiwan",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1519275565142-d81952f9e2d1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "long"
+    }
+  },
+  {
+    "name": "The South of France",
+    "description": "It's pronounced \"Fronce\"",
+    "img": "https://images.unsplash.com/photo-1555341498-528ba188ef0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "beach",
+      "temperature": "hot",
+      "flight": "medium"
+    }
+  },
+  {
+    "name": "Victoria Falls, Zimbabwe",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1570514333207-f753a6ba38b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "adventure",
+      "temperature": "hot",
+      "flight": "long"
+    }
+  },
+  {
+    "name": "Washington, DC (Cherry Blossoms)",
+    "description": "",
+    "img": "https://images.unsplash.com/photo-1554438678-904c9b6bc771?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=350&q=80",
+    "visited": "No",
+    "visitedDate": "",
+    "tags": {
+      "type": "city",
+      "temperature": "temperate",
+      "flight": "short"
+    }
+  }
+]
